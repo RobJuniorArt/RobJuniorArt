@@ -1,4 +1,4 @@
-# Olá, eu sou o Rob! 👋
+<img width="1273" height="828" alt="image" src="https://github.com/user-attachments/assets/1d3b1ee9-daf7-458a-85d7-014a1545e5fb" /># Olá, eu sou o Rob! 👋
 
 ### 🎨 Concept Artist & Illustrator | 💻 Software Engineering Student
 
@@ -11,8 +11,8 @@
 
 ### 📊 Estatísticas de Programação
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robjunior&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobJuniorArt&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobJuniorArt&layout=compact&langs_count=7&theme=dark" />
 </p>
 
 ---
