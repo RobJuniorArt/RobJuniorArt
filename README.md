@@ -1,4 +1,4 @@
-<img width="1273" height="828" alt="image" src="https://github.com/user-attachments/assets/1d3b1ee9-daf7-458a-85d7-014a1545e5fb" /># Olá, eu sou o Rob! 👋
+# Olá, eu sou o Rob! 👋
 
 ### 🎨 Concept Artist & Illustrator | 💻 Software Engineering Student
 
